@@ -129,3 +129,7 @@ Shout out to [@DongHyunnn](https://github.com/DongHyunnn) and Gemini for the cur
 | 98 | MoE Gating | Top-k Softmax for Expert selection |
 | 99 | MoE Dispatch | Data routing to experts kernel |
 | 100 | DeepSeek MoE Fused| **Fused MoE Grouped GEMM (Router + Expert integration)** |
+
+## Reference
+- [LeetGPU](https://leetgpu.com/)
+- [GPU-100days-Study](https://github.com/a-hamdi/GPU)

@@ -1,0 +1,15 @@
+[project]
+name = "gpu-100days-study"
+version = "0.1.0"
+description = "A 100-day study of GPU programming using CUDA and Triton."
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "torch",
+    "triton",
+    "numpy",
+]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
